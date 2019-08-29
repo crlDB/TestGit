@@ -17,9 +17,3 @@ b3
 b4
 b5
 
-rzerezrez
-tertert
-re
-t
-re
-t
