@@ -1,9 +1,4 @@
-# TestGit
-test git commands
-sss
-eee
-e
-e
-e
-master
-branch oef1
+# MASTER GEDEELTE
+m1
+m2
+m3
