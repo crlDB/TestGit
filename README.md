@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MASTER GEDEELTE
 m1
 m2
@@ -27,3 +28,12 @@ uy
 iuyi
 uy
 i
+=======
+# TestGit
+test git commands
+sss
+eee
+e
+e
+e
+>>>>>>> d7d2c8a... rrrr
